@@ -2,7 +2,8 @@
 
 ## Description
 
-**Meeting Cost Tracker** est une application simple qui calcule le coût total des réunions en fonction du nombre de participants et de leur taux horaire. Cette application permet de suivre le coût d'une réunion en temps réel tout en tenant compte du temps passé et des taux horaires individuels.
+> [!NOTE]
+>**Meeting Cost Tracker** est une application simple qui calcule le coût total des réunions en fonction du nombre de participants et de leur taux horaire. Cette application permet de suivre le coût d'une réunion en temps réel tout en tenant compte du temps passé et des taux horaires individuels.
 
 ## Fonctionnalités
 
@@ -39,11 +40,11 @@ Si tu souhaites cloner le projet et l'utiliser localement :
 
 ## Utilisation
 
-    1. Ajouter des participants : Cliquez sur "Add Attendee" pour ajouter un nouveau participant. Saisissez leur taux horaire.
-    2. Démarrer le Timer : Cliquez sur "Start Timer" pour commencer à suivre le temps de la réunion.
-    3. Calculer le coût : Le coût total sera automatiquement calculé en fonction du temps passé et des taux horaires des participants.
-    4. Arrêter le Timer : Cliquez sur "Stop Timer" pour arrêter le suivi du temps.
-    5. Supprimer un participant : Utilisez le bouton "Remove" pour retirer un participant du calcul.
+ 1. **Ajouter des participants :** Cliquez sur "Add Attendee" pour ajouter un nouveau participant. Saisissez leur taux horaire.
+ 2. **Démarrer le Timer :** Cliquez sur "Start Timer" pour commencer à suivre le temps de la réunion.
+ 3. **Calculer le coût :** Le coût total sera automatiquement calculé en fonction du temps passé et des taux horaires des participants.
+ 4. **Arrêter le Timer :** Cliquez sur "Stop Timer" pour arrêter le suivi du temps.
+ 5. **Supprimer un participant :** Utilisez le bouton "Remove" pour retirer un participant du calcul.
 
 ## Contribuer
 
